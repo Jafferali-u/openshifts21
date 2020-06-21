@@ -1,2 +1,1 @@
-# simple-docker-image
-Simple static HTML page in a Docker image
+Use S2I to build a new docker image using sources and a builder image.
